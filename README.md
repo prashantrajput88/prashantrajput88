@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm PRASHANT KUMAR</h1>
 <h3 align="center">A passionate DATA SCIENCTIST</h3>
-<img align='right' alt="coding" width='300' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fcoders_geeks%2Fp%2FC0tfa4grLQ5%2F&psig=AOvVaw0ZafeMlob8YcDqva1BanKc&ust=1711192784699000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjj2YLgh4UDFQAAAAAdAAAAABAE'>
+<img align='right' alt="coding" width='100' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fcoders_geeks%2Fp%2FC0tfa4grLQ5%2F&psig=AOvVaw0ZafeMlob8YcDqva1BanKc&ust=1711192784699000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjj2YLgh4UDFQAAAAAdAAAAABAE'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantrajput88&label=Profile%20views&color=0e75b6&style=flat" alt="prashantrajput88" /> </p>
 
