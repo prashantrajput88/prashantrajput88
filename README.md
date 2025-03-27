@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/prashantvanshlaj" target="blank"><img src="https://img.shields.io/twitter/follow/prashantvanshlaj?logo=twitter&style=for-the-badge" alt="prashantvanshlaj" /></a> </p>
 
-- 🔭 I’m currently working on [student mental strees])](https://github.com/prashantrajput88/project-/blob/main/Rohit%20sharma.ipynb)
+- 🔭 I’m currently working on [ "student mental strees"]
 
 - 🌱 I’m currently learning **MACHINE, SQL, D3JS, AI**
 
