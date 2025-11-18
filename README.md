@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm PRASHANT KUMAR</h1>
 <h3 align="center">A passionate DATA SCIENCTIST</h3>
-<img align='Center' alt="Coding" width='800' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Ftyresswhite%2Fcoding-animations%2F&psig=AOvVaw21m5gIxgREFuTzIoyguO6m&ust=1711193226269000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICPmKzjh4UDFQAAAAAdAAAAABAE'
+<img align='Center' alt="Coding" width='100' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Ftyresswhite%2Fcoding-animations%2F&psig=AOvVaw21m5gIxgREFuTzIoyguO6m&ust=1711193226269000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICPmKzjh4UDFQAAAAAdAAAAABAE'
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantrajput88&label=Profile%20views&color=0e75b6&style=flat" alt="prashantrajput88" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prashantvanshlaj" target="blank"><img src="https://img.shields.io/twitter/follow/prashantvanshlaj?logo=twitter&style=for-the-badge" alt="prashantvanshlaj" /></a> </p>
 
-- 🔭 I’m currently working on [ "student mental strees"]
+- 🔭 I’m currently working on Bikes Analysis.
 
 - 🌱 I’m currently learning **MACHINE, SQL, D3JS, AI**
 
