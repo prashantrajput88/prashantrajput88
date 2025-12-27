@@ -39,7 +39,7 @@
 
 
 
-Data Analyst Roadmap.
+                                                                 Data Analyst Roadmap.
 |**Day :calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|--------------------|---------------------|
 |Day 1| Learnt Basics of **Advanced Excel** (Functions, Formulas, Charts, Conditional Formatting) | [Data Visualization with Advanced Excel - by PWC](https://coursera.org/share/064db4645159df788ad0b31abebf1556)|
